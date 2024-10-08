@@ -7,11 +7,6 @@ Este proyecto consiste en una aplicación que gestiona estudiantes, materias y s
 
 - [Requisitos](#requisitos)
 - [Configuración del Backend](#configuración-del-backend)
-- [Configuración del Frontend](#configuración-del-frontend)
-- [Integración del Backend y Frontend](#integración-del-backend-y-frontend)
-- [Demostración en Video](#demostración-en-video)
-- [Cómo ejecutar el proyecto](#cómo-ejecutar-el-proyecto)
-- [Contribuciones](#contribuciones)
 
 ## Requisitos
 
@@ -31,11 +26,7 @@ Para ejecutar el proyecto correctamente, necesitarás:
 
 
 
- ## Instalar las dependencias:
-  
-bash
-Copiar código
-npm install
+
 ## Configurar la base de datos:
 -Sube el contenedor de MySQL siguiendo el manual de serve-mysql.
 
