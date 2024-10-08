@@ -26,5 +26,5 @@ Para ejecutar el proyecto correctamente, necesitarás:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-estudiantes.git
+   git clone https://github.com/sparyock/Implementaci-n-CRUD.-Construir-Layout-.git
    cd proyecto-estudiantes/backend
