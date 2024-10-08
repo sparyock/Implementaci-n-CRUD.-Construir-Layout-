@@ -32,11 +32,9 @@ Para ejecutar el proyecto correctamente, necesitarás:
 
 ## Configurar el archivo .env:
 Crea un archivo .env en la raíz del proyecto con las siguientes variables de entorno:
-makefile
-Copiar código
-DB_HOST=localhost
-DB_USER=root
-DB_PASS=password
-DB_NAME=estudiante
+-DB_HOST=localhost
+-DB_USER=root
+-DB_PASS=password
+-DB_NAME=estudiante
 
 
