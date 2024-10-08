@@ -35,7 +35,7 @@ Crea un archivo .env en la raíz del proyecto con las siguientes variables de en
 
 - DB_HOST=localhost
 - DB_USER=root
-- DB_PASS=password
+- DB_PASS=abcd1234
 - DB_NAME=estudiante
 
 
