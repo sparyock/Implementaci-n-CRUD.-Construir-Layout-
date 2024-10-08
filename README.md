@@ -32,6 +32,7 @@ Para ejecutar el proyecto correctamente, necesitarás:
 
 ## Configurar el archivo .env:
 Crea un archivo .env en la raíz del proyecto con las siguientes variables de entorno:
+
 -DB_HOST=localhost
 -DB_USER=root
 -DB_PASS=password
